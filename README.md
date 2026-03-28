@@ -7,10 +7,10 @@
 ---------------------------------
 Обучили 4 модели. Получили следующие метрики F1_macro:
 
-LightGBM = 0.75
-CatBoost = 0.74
-RandomForest = 0.72
-LogisticRegression = 0.68
+- LightGBM = 0.75
+- CatBoost = 0.74
+- RandomForest = 0.72
+- LogisticRegression = 0.68
 
 Лучшая модель **LGBMClassifier**
 
